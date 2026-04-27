@@ -27,9 +27,3 @@ problems/medium/regular_expression_match/
 ```bash
 go test ./...
 ```
-
-## Problem Tracking
-
-| # | Title | Difficulty | Status |
-|---|-------|-----------|--------|
-| 10 | Regular Expression Matching | Medium | In Progress |
